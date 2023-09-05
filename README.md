@@ -1,6 +1,6 @@
 # Handwritten_OCR
-weight: https://drive.google.com/file/d/1CkDeDq3s9fjL4sV-hSRlHjupnW1EXl8o/view?usp=drive_link
-# Usages
+weights: https://drive.google.com/file/d/1CkDeDq3s9fjL4sV-hSRlHjupnW1EXl8o/view?usp=drive_link
+# Install
 1. git clone or download source code
 2. conda create -n "vietocr"
 3. conda activate vietocr
